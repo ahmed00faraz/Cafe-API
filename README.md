@@ -1,10 +1,3 @@
-# Cafe-API
-a full fledge cafe website
-
-Here’s the **README** for your Cafe API project using **Flask** and **SQLAlchemy**:
-
----
-
 # Cafe RESTful API
 
 This project provides a RESTful API for managing a list of cafes. You can perform operations such as adding a new cafe, getting a random cafe, updating the coffee price, and deleting cafes with the help of endpoints.
@@ -263,10 +256,6 @@ To delete a cafe, you need to pass an API key with the request. The default key 
 ```
 TopSecretAPIKey
 ```
-
-Make sure to replace this with your own key in the code if needed.
-
-## License
 
 This project is licensed under the MIT License.
 
